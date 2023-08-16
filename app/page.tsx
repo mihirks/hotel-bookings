@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import Image from 'next/image'
 import ClientOnly from './components/ClientOnly'
 import Container from './components/Container'
